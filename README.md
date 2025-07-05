@@ -1,1 +1,1 @@
-# Semana-06-Validaciones-din-micas-y-manejo-b-sico-de-formularios.
+Validaciones dinámicas y manejo básico de formularios.
